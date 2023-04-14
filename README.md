@@ -2,6 +2,6 @@
 
 ##Proyecto para trabajar el curso de Git.
 
-**Archivos
+-Archivos
 *index.html
 *index2.html
