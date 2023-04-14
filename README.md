@@ -1,7 +1,7 @@
-#Proyecto de pagina web
+# Proyecto de pagina web
 
-##Proyecto para trabajar el curso de Git.
+## Proyecto para trabajar el curso de Git.
 
--Archivos
-*index.html
-*index2.html
+- Archivos
+* index.html
+* index2.html
