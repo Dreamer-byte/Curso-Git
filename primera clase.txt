@@ -1,0 +1,23 @@
+https://goo.su/d5qd
+La u de vs code significa Untraqued este archivo no se le esta haciendo seguimiento
+de versiones
+Solo los archivos traqueados se van al repositorio remoto. todo lo que no este
+
+traqueado no se va a ir a github.
+
+
+
+git remote add origin https://github.com/Dreamer-byte/Curso-Git.git
+git branch -M main
+git push -u origin main
+
+HEAD es la cabecer del proyecto es un puntero que apunta ahi.
+
+git checkout me sirve para moverme al lugar el que hice el commit
+
+git checkout hash
+
+pero para volverme hacia atras es git checout main para volver a la cabecera
+
+archivo readme extencion md(markdown)
+este es el lenguaje en el cual se escribe el readme.
